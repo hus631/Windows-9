@@ -1,0 +1,14 @@
+# Windows 9 - Sahan Edition (HP 530 Optimized)
+
+Bu proje, Python ve Tkinter kullanılarak geliştirilmiş nostaljik bir "Windows 9" simülasyonudur. 
+
+## ✨ Özellikler
+* **Özel Boot Ekranı:** HP 530 BIOS hatırasıyla açılış.
+* **Sahan Snake Engine v4.0:** Donmayan, elma yedikçe hızlanmayan, rekor sistemli yılan oyunu.
+* **XP BSOD:** Kritik sistem dosyalarını (Bilgisayarım gibi) silerseniz Windows XP mavi ekranı sizi karşılar.
+* **Araçlar:** Not Defteri, Hesap Makinesi, CMD ve Google entegrasyonu.
+
+## 🛠️ Kurulum
+1. Python'ın yüklü olduğundan emin olun.
+2. Depoyu indirin.
+3. `python main.py` komutuyla çalıştırın.
